@@ -1,2 +1,2 @@
-# estudando-linguagem-de-marcacao-python
-Inicio do meu estudo de linguagem de programação
+# estudando-linguagem-de-programacao-python
+Alguns exercicos do inicio do meu estudo de linguagem de programação
